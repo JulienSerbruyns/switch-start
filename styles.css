@@ -1,0 +1,11 @@
+.shouting-text {
+	text-transform: uppercase;
+}
+
+p {
+	color:#FFFFFF; /*this is the hexadecimal value of color white */
+}
+
+section {
+	backrgound-colour: #000000; /*this is the hexadecimal value of color black */
+}
